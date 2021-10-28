@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JSON_Tatischev483</string>
+    <string name="BtnQuery">Query</string>
+    <string name="TextCity">City:</string>
+    <string name="BtnSave">Save</string>
+    <string name="BtnCancel">Cancel</string>
+    <string name="BtnLoad">Load</string>
+    <string name="BtnApply">Apply</string>
+    <string name="BtnKey">Change Key</string>
+    <string name="BtnClear">Clear</string>
+    <string name="BtnHistory">History</string>
+</resources>
